@@ -11,7 +11,7 @@ A fast and automated Python script to extract `fuckingfast` download links direc
 - ⚡ **Lightweight:** Built with minimal dependencies for quick execution.
 
 ## 🛠️ Prerequisites
-Ensure you have [Python 3.x](https://www.python.org/downloads/) installed on your system. 
+Ensure you have [Python 3.8+](https://www.python.org/downloads/) installed on your system. 
 
 ## 📥 How to Use
 
