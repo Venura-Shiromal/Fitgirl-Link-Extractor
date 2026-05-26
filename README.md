@@ -1,6 +1,6 @@
 # 🎮 FitGirl Link Extractor
 
-![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A fast and automated Python script to extract `fuckingfast` download links directly from FitGirl Repacks game pages. Skip the manual clicking and get your links instantly saved to a text file.
